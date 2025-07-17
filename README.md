@@ -1,26 +1,26 @@
-# 🛠️ Automação de Teste – Book Cart
+# 📚 Automação Book Cart
 
-Este projeto contém um teste automatizado simples utilizando **Python + Selenium** para o site [Book Cart](https://bookcart.azurewebsites.net).
+Este repositório contém um teste automatizado simples usando **Python + Selenium** no site [Book Cart](https://bookcart.azurewebsites.net).
 
-## 🎯 **Objetivo**
+## 🚀 O que esse projeto faz
 
-✔️ Abrir o site Book Cart  
-✔️ Pesquisar um livro específico  
-✔️ Validar se o livro foi encontrado
-
----
-
-## 💻 **Tecnologias utilizadas**
-
-- **Python 3.x**
-- **Selenium**
-- **GeckoDriver (para Firefox)**
+- Abre o site Book Cart
+- Pesquisa por um livro específico
+- Confirma se o livro aparece na busca
 
 ---
 
-## 🔧 **Como executar**
+## 💻 Tecnologias usadas
 
-1. Clone este repositório:
+- Python 3.x
+- Selenium WebDriver
+- GeckoDriver (Firefox)
+
+---
+
+## 📝 Como rodar esse teste
+
+1. Clone o repositório:
 
 ```bash
 git clone https://github.com/lucasqatech/automacao-bookcart.git
