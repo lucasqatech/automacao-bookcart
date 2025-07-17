@@ -1,4 +1,4 @@
-# # 🛠️ Automação de Teste – Book Cart
+# 🛠️ Automação de Teste – Book Cart
 
 Este projeto contém um teste automatizado simples utilizando **Python + Selenium** para o site [Book Cart](https://bookcart.azurewebsites.net).
 
